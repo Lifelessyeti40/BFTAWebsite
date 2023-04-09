@@ -18,7 +18,7 @@
 }
 
 .logo {
-    width: 250px;
+    width: 230px;
     padding: 20px 0;
     cursor: pointer;
 }
@@ -61,11 +61,11 @@
 }
 
 .launch-timer div {
-    flex-basis: 150px;
+    flex-basis: 200px;
 }
 
 .launch-timer div p {
-    font-size: 70px;
+    font-size: 60px;
     margin-bottom: -6px;
 }
 
